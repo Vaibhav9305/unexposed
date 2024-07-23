@@ -1,0 +1,1111 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: unExposed\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-14 11:24+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.10; wp-6.5.4\n"
+"X-Domain: unexposed"
+
+#: inc/customizer/featured_section.php:73
+msgid " Section Work Category"
+msgstr ""
+
+#. %s: Name of current post.
+#: template-parts/content.php:62
+#, php-format
+msgid "%s <i class=\"ion-ios-arrow-right read-more-right\"></i>"
+msgstr ""
+
+#: functions.php:173
+msgctxt "%s font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/customizer/customizer-function.php:83
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:67
+msgid ", "
+msgstr ""
+
+#: inc/customizer/slider.php:50
+msgid "1"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:325
+msgid "1000+ Google fonts"
+msgstr ""
+
+#: inc/customizer/slider.php:51
+msgid "2"
+msgstr ""
+
+#: inc/customizer/category-section.php:74 inc/customizer/slider.php:52
+msgid "3"
+msgstr ""
+
+#: inc/customizer/category-section.php:75 inc/customizer/slider.php:53
+msgid "4"
+msgstr ""
+
+#: 404.php:17
+msgid "404"
+msgstr ""
+
+#: inc/customizer/slider.php:54
+msgid "5"
+msgstr ""
+
+#: inc/customizer/slider.php:55
+msgid "6"
+msgstr ""
+
+#: inc/customizer/slider.php:56
+msgid "7"
+msgstr ""
+
+#: inc/customizer/slider.php:57
+msgid "8"
+msgstr ""
+
+#: inc/customizer/slider.php:58
+msgid "9"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:236
+msgid ""
+"A feature that allows you to import a pre-designed website template with a "
+"single click."
+msgstr ""
+
+#: inc/customizer/about.php:138
+msgid "About Button Text"
+msgstr ""
+
+#: inc/customizer/about.php:154
+msgid "About Button URL:"
+msgstr ""
+
+#: inc/customizer/about.php:86
+msgid "About Highlight Number"
+msgstr ""
+
+#: inc/customizer/about.php:119
+msgid "About Highlight Number - 2"
+msgstr ""
+
+#: inc/customizer/about.php:71
+msgid "About Highlight Text"
+msgstr ""
+
+#: inc/customizer/about.php:104
+msgid "About Highlight Text - 2"
+msgstr ""
+
+#: inc/customizer/about.php:6
+msgid "About Section Options"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:89
+msgid "Advanced Color and typography options"
+msgstr ""
+
+#: inc/recent-post-widget.php:77
+msgid "All Categories"
+msgstr ""
+
+#: inc/customizer/theme-option.php:205
+msgid "Archive Excerpt Length"
+msgstr ""
+
+#: inc/author-widget.php:125
+msgid "Author Background Image:"
+msgstr ""
+
+#: inc/author-widget.php:149
+msgid "Author Image:"
+msgstr ""
+
+#: inc/author-widget.php:110
+msgid "Author Name:"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:37
+msgid "Bonjour! Ciao! Willkommen! Hello!"
+msgstr ""
+
+#: inc/customizer/theme-option.php:188
+msgid "Button Text for Read More"
+msgstr ""
+
+#: inc/customizer/category-section.php:6
+msgid "Categories Section Options"
+msgstr ""
+
+#: inc/customizer/slider.php:116
+msgid "Category"
+msgstr ""
+
+#: inc/customizer/category-section.php:108 inc/customizer/slider.php:152
+msgid "Category for slider"
+msgstr ""
+
+#: inc/customizer/category-section.php:37
+msgid "Category Posts Sub Title"
+msgstr ""
+
+#: inc/customizer/category-section.php:54
+msgid "Category Section Title"
+msgstr ""
+
+#: inc/recent-post-widget.php:68
+msgid "Category:"
+msgstr ""
+
+#: inc/customizer/default.php:67
+msgid "Check Our Instagram"
+msgstr ""
+
+#: inc/category-metabox.php:78
+msgid "Choose an image"
+msgstr ""
+
+#: inc/author-widget.php:128 inc/author-widget.php:152
+msgid "Choose Image"
+msgstr ""
+
+#: inc/helper/header-nav.php:55
+msgid "Close"
+msgstr ""
+
+#: inc/customizer/theme-option.php:301
+msgid "Color Options"
+msgstr ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin-page/admin-about.php:187
+msgid "Contact support"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:192
+msgid "contact support"
+msgstr ""
+
+#: inc/customizer/default.php:57 inc/customizer/default.php:61
+msgid "Contact Us"
+msgstr ""
+
+#: inc/recent-post-widget.php:90
+msgid "Content Length (Words):"
+msgstr ""
+
+#: inc/customizer/default.php:75
+msgid "Continue Reading"
+msgstr ""
+
+#: inc/customizer/default.php:78
+msgid "Copyright All rights reserved"
+msgstr ""
+
+#: inc/customizer/cta.php:88
+msgid "CTA Button Text"
+msgstr ""
+
+#: inc/customizer/cta.php:104
+msgid "CTA Button URL:"
+msgstr ""
+
+#: inc/customizer/cta.php:53
+msgid "CTA Posts Description"
+msgstr ""
+
+#: inc/customizer/cta.php:37
+msgid "CTA Posts Title"
+msgstr ""
+
+#: inc/customizer/cta.php:6
+msgid "CTA Section Options"
+msgstr ""
+
+#: inc/customizer/theme-option.php:143
+msgid "Cursor Options"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:349
+msgid "Custom Fonts"
+msgstr ""
+
+#: inc/customizer/default.php:47
+msgid "customer satisfaction"
+msgstr ""
+
+#: inc/customizer/theme-option.php:31
+msgid "Dark Scheme"
+msgstr ""
+
+#: inc/customizer/theme-option.php:263
+msgid "Default (Older / Newer Post)"
+msgstr ""
+
+#: inc/helper/single-meta.php:53
+msgid "Disable Featured Image on single page"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:460
+msgid ""
+"Display your Facebook Fanpage widget in your sidebar or post content via a "
+"shortcode"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:478
+msgid ""
+"Display your Pinterest Board widget in your sidebar or post content via a "
+"shortcode"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:496
+msgid ""
+"Display your Twitter feed in your sidebar with a widget or post content via "
+"a shortcode"
+msgstr ""
+
+#: inc/author-widget.php:15
+msgid "Displays author short info."
+msgstr ""
+
+#: functions.php:118 functions.php:127 functions.php:136
+msgid "Displays items on footer section."
+msgstr ""
+
+#: inc/recent-post-widget.php:15
+msgid "Displays recent posts"
+msgstr ""
+
+#: inc/social-widget.php:15
+msgid "Displays social menu if you have set it(social menu)"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:173
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:352
+msgid ""
+"Easily upload and integrate custom fonts on your site by using the Custom "
+"Fonts module."
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:40
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/customizer/about.php:21
+msgid "Enable About Section"
+msgstr ""
+
+#: inc/customizer/category-section.php:21
+msgid "Enable Category Section"
+msgstr ""
+
+#: inc/customizer/cta.php:21
+msgid "Enable CTA Section"
+msgstr ""
+
+#: inc/customizer/theme-option.php:160
+msgid "Enable Custom Cursor"
+msgstr ""
+
+#: inc/customizer/featured-blog.php:29
+msgid "Enable Featured Blog"
+msgstr ""
+
+#: inc/customizer/featured_section.php:26
+msgid "Enable Featured Work"
+msgstr ""
+
+#: inc/customizer/theme-option.php:232
+msgid "Enable Floating Next/Previous Article"
+msgstr ""
+
+#: inc/customizer/theme-option.php:132
+msgid "Enable Preloader Option"
+msgstr ""
+
+#: inc/customizer/slider.php:29
+msgid "Enable Slider"
+msgstr ""
+
+#: inc/customizer/slider.php:75
+msgid "Enable Slider Content"
+msgstr ""
+
+#: inc/customizer/testimonial.php:21
+msgid "Enable Testimonial Section"
+msgstr ""
+
+#: inc/customizer/video.php:21
+msgid "Enable Video Section"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:457
+msgid "Facebook Integration"
+msgstr ""
+
+#: inc/author-widget.php:173
+msgid "Facebook URL:"
+msgstr ""
+
+#: inc/customizer/featured-blog.php:45
+msgid "Featured Blog Title"
+msgstr ""
+
+#: inc/customizer/default.php:38
+msgid "Featured Category"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:134
+msgid "Featured Image Gallery"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:162
+msgid "Featured Page Options"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:155
+msgid "Featured Page Settings"
+msgstr ""
+
+#: inc/customizer/featured_section.php:11
+msgid "Featured Work Section Settings"
+msgstr ""
+
+#: inc/customizer/featured_section.php:41
+msgid "Featured Work Section Title"
+msgstr ""
+
+#: inc/customizer/default.php:56
+msgid "Feel free to connect"
+msgstr ""
+
+#: inc/customizer/theme-option.php:328
+msgid "Fonts & Typography"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:317
+msgid "Fonts and color option"
+msgstr ""
+
+#: functions.php:116
+msgid "Footer Column 1"
+msgstr ""
+
+#: functions.php:125
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions.php:134
+msgid "Footer Column 3"
+msgstr ""
+
+#: inc/customizer/theme-option.php:289
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:403
+msgid "Footer Credit Remove"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:127 inc/customizer/featured-blog.php:13
+msgid "Footer Featured Blog"
+msgstr ""
+
+#: inc/customizer/theme-option.php:272
+msgid "Footer Options"
+msgstr ""
+
+#: footer.php:51 inc/helper/header-nav.php:95
+msgid "Footer Social Links Menu"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:222
+msgid "Free"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:57
+msgid "free vs pro"
+msgstr ""
+
+#: inc/customizer/theme-option.php:11
+msgid "Front-Page Options"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:251
+msgid "Fully Responsive"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:86
+msgid "General settings"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:370
+msgid ""
+"Get more visitors by making the content of your website fully visible for "
+"search engines."
+msgstr ""
+
+#: inc/admin-page/admin-about.php:55
+msgid "getting started"
+msgstr ""
+
+#: inc/customizer/theme-option.php:79
+msgid "Header Button Text"
+msgstr ""
+
+#: inc/customizer/theme-option.php:95
+msgid "Header Button URL:"
+msgstr ""
+
+#: inc/customizer/theme-option.php:62
+msgid "Header Content Description"
+msgstr ""
+
+#: inc/customizer/theme-option.php:47
+msgid "Header Content Title"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:269
+msgid "High-speed Performance"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://unitedtheme.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://unitedtheme.com/themes/unexposed/"
+msgstr ""
+
+#: inc/customizer/slider.php:47
+msgid ""
+"If you are using selection \"from page\" option please refresh to get actual "
+"no of page"
+msgstr ""
+
+#: inc/category-metabox.php:94
+msgid "Image"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:439
+msgid "Instagram Feature"
+msgstr ""
+
+#: inc/author-widget.php:189
+msgid "Instagram URL:"
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/customizer/theme-option.php:171
+msgid "Layout Management"
+msgstr ""
+
+#: inc/helper/single-meta.php:22
+msgid "Layout Options"
+msgstr ""
+
+#: inc/customizer/default.php:29 inc/helper/featured-work.php:42
+msgid "Learn More"
+msgstr ""
+
+#: inc/customizer/about.php:157 inc/customizer/cta.php:107
+#: inc/customizer/theme-option.php:98 inc/customizer/video.php:59
+msgid "Leave empty if you don't want the have a this link"
+msgstr ""
+
+#: inc/customizer/theme-option.php:32
+msgid "Light-scheme"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:74
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/admin-page/admin-about.php:219
+msgid "List of features"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:158
+msgid "Manage featured page settings"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:130
+msgid "Manage You May Also Like section"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:144
+msgid "Manage your main slider and their content"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:75
+msgid "Manage your site logo and site icon"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:116
+msgid "Manage your site via theme option panel on customizer"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:102
+msgid "Manage your Sites menu form here"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:99
+msgid "Menu"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:385
+msgid "Newsletter option"
+msgstr ""
+
+#: inc/custom-functions.php:170
+msgid "Next post"
+msgstr ""
+
+#: inc/recent-post-widget.php:84
+msgid "No of Posts:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/customizer/category-section.php:70
+msgid "Number Of Category"
+msgstr ""
+
+#: inc/customizer/theme-option.php:262
+msgid "Numeric"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:43
+msgid ""
+"Oh my goodness, we're so thrilled you decided to join the UnitedTheme family!"
+" Hats off on making an excellent decision!"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:233
+msgid "One Click Demo Import"
+msgstr ""
+
+#. 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/customizer/default.php:54
+msgid "Our Testimonial"
+msgstr ""
+
+#: inc/customizer/slider.php:115
+msgid "Page"
+msgstr ""
+
+#: template-parts/content-page.php:27 template-parts/content.php:67
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer/theme-option.php:241
+msgid "Pagination Options"
+msgstr ""
+
+#: inc/customizer/theme-option.php:258
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/customizer/default.php:49
+msgid "photography session"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:475
+msgid "Pinterest Integration"
+msgstr ""
+
+#: inc/icon-functions.php:42
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: inc/icon-functions.php:37
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/admin-page/admin-about.php:225 inc/admin-page/admin-about.php:538
+msgid "Plus"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:49
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:32
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:70
+#, php-format
+msgid "Posted In %1$s"
+msgstr ""
+
+#: inc/customizer/theme-option.php:115
+msgid "Preloader Options"
+msgstr ""
+
+#: inc/custom-functions.php:151
+msgid "Previous post"
+msgstr ""
+
+#: inc/customizer/theme-option.php:320
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer/theme-option.php:344
+msgid "Primary Font"
+msgstr ""
+
+#: functions.php:47 header.php:118
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:254
+msgid ""
+"Provide your mobile users with the best experience by sharing the most "
+"detailed images."
+msgstr ""
+
+#: inc/admin-page/admin-about.php:388
+msgid "Provides a ready-to-go solution for your mail marketing needs."
+msgstr ""
+
+#: inc/admin-page/admin-about.php:538
+msgid "Purchase"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:48
+msgid "Rate This Theme"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:178
+msgid "read documentation"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:175
+msgid ""
+"Read our full documentation for all the detailed information on\n"
+"                                        how to setup and use Meta News theme."
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/custom-hooks.php:226
+msgid "Related Post"
+msgstr ""
+
+#: inc/author-widget.php:139 inc/author-widget.php:163
+msgctxt "Remove"
+msgid "X"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:406
+msgid "Remove default copyright text from the footer."
+msgstr ""
+
+#: inc/category-metabox.php:21 inc/category-metabox.php:46
+msgid "Remove image"
+msgstr ""
+
+#. %s: search query.
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/customizer/theme-option.php:362
+msgid "Secondary Font"
+msgstr ""
+
+#: inc/customizer/about.php:36
+msgid "Select About Page"
+msgstr ""
+
+#: inc/customizer/featured-blog.php:62
+msgid "Select Category for Featured Blog"
+msgstr ""
+
+#: inc/customizer/category-section.php:109 inc/customizer/slider.php:153
+msgid "Select category to be shown on tab "
+msgstr ""
+
+#: inc/customizer/featured_section.php:74
+msgid "Select category to be shown on work section "
+msgstr ""
+
+#: inc/customizer/theme-option.php:27
+msgid "Select Header Color Scheme"
+msgstr ""
+
+#: inc/author-widget.php:128 inc/author-widget.php:152
+msgid "Select Image"
+msgstr ""
+
+#: inc/customizer/slider.php:46
+msgid "Select no of slider"
+msgstr ""
+
+#: inc/customizer/slider.php:92
+msgid "Select no words of slider"
+msgstr ""
+
+#: inc/customizer/slider.php:111
+msgid "Select Slider From"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:367
+msgid "SEO optimized"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:106
+msgid "Setting up Menu"
+msgstr ""
+
+#: inc/author-widget.php:118
+msgid "Short Description:"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:442
+msgid "Show images from your Instagram account"
+msgstr ""
+
+#: inc/helper/header-nav.php:18
+msgid "Show sub menu"
+msgstr ""
+
+#: inc/customizer/theme-option.php:216
+msgid "Single Options"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:79
+msgid "Site Identity"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:72
+msgid "Site Title"
+msgstr ""
+
+#: header.php:73
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer/slider.php:205
+msgid "Slider Background Color"
+msgstr ""
+
+#: inc/customizer/slider.php:171
+msgid "Slider Button Text"
+msgstr ""
+
+#: inc/customizer/slider.php:132
+msgid "Slider From Page"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:148 inc/customizer/slider.php:13
+msgid "Slider Options"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:141
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer/slider.php:188
+msgid "Slider Text Color"
+msgstr ""
+
+#: functions.php:48
+msgid "Social Menu"
+msgstr ""
+
+#: inc/social-widget.php:48
+msgid ""
+"Social menu is not set. You need to create menu and assign it to Social Menu "
+"on Menu Settings."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/admin-page/admin-about.php:190
+msgid ""
+"Still need support? Please create a support ticket and one of our support "
+"member will get back to you ASAP."
+msgstr ""
+
+#: inc/admin-page/admin-about.php:56
+msgid "support"
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:77
+#, php-format
+msgid "Tagged In %1$s"
+msgstr ""
+
+#: inc/customizer/testimonial.php:90
+msgid "Testimonial Page"
+msgstr ""
+
+#: inc/customizer/testimonial.php:54
+msgid "Testimonial Section Description"
+msgstr ""
+
+#: inc/customizer/testimonial.php:6
+msgid "Testimonial Section Options"
+msgstr ""
+
+#: inc/customizer/testimonial.php:37
+msgid "Testimonial Section Title"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:40
+#, php-format
+msgid "Thank you for choosing %1$s"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:46
+msgid "Theme Details"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:113 inc/admin-page/admin-about.php:120
+#: inc/customizer/theme-option.php:107
+msgid "Theme Options"
+msgstr ""
+
+#: footer.php:80
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/category-metabox.php:14 inc/category-metabox.php:35
+#: inc/category-metabox.php:104
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/author-widget.php:102 inc/recent-post-widget.php:61
+#: inc/social-widget.php:70
+msgid "Title:"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:424
+msgid ""
+"Translate your project to any language with po translation, WPML plugin and "
+"RTL style"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:421
+msgid "Translation Ready"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:493
+msgid "Twitter Integration"
+msgstr ""
+
+#: inc/author-widget.php:181
+msgid "Twitter URL:"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:334
+msgid "TypeKit Fonts"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:17
+msgid "Unexposed"
+msgstr ""
+
+#. Name of the theme
+msgid "unExposed"
+msgstr ""
+
+#: inc/author-widget.php:14
+msgid "Unexposed Author Info"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Unexposed is a Modern clean WordPress Blog free theme for all the Blogger "
+"out there who strive towards minimalism and clean lines. Its retina ready "
+"and fully responsive design will look amazing, and work fluently, on all "
+"devices (mobile, tablet, and desktop). Unexposed features multiple blog "
+"layouts to choose from and tons of options for customizing the theme and "
+"making it your own. See your changes in real-time using the easy to use "
+"built-in theme customizer."
+msgstr ""
+
+#: inc/recent-post-widget.php:14
+msgid "Unexposed Recent Posts"
+msgstr ""
+
+#: inc/social-widget.php:14
+msgid "Unexposed Social Menu"
+msgstr ""
+
+#. Author of the theme
+msgid "UnitedTheme"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:205 inc/admin-page/admin-about.php:512
+#, php-format
+msgid "Unlock all the features with %1$s Plus"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:287
+msgid "Unrestricted Features"
+msgstr ""
+
+#: inc/customizer/customizer.php:212
+msgid "Upgrade"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:534
+msgid "Upgrade now"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:49 inc/admin-page/admin-about.php:92
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:202 inc/admin-page/admin-about.php:211
+#: inc/admin-page/admin-about.php:510 inc/admin-page/admin-about.php:518
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:536
+msgid ""
+"Upgrade to the Pro version and get instant access to all premium extensions, "
+"features and future updates."
+msgstr ""
+
+#: inc/author-widget.php:128 inc/author-widget.php:152
+msgid "Upload"
+msgstr ""
+
+#: inc/customizer/featured_section.php:59 inc/customizer/testimonial.php:73
+msgid "Upload Background Image"
+msgstr ""
+
+#: inc/customizer/video.php:39
+msgid "Upload Featured Image"
+msgstr ""
+
+#: inc/customizer/about.php:54 inc/customizer/cta.php:71
+msgid "Upload Featured image 1"
+msgstr ""
+
+#: inc/category-metabox.php:20 inc/category-metabox.php:45
+msgid "Upload/Add image"
+msgstr ""
+
+#: inc/category-metabox.php:79
+msgid "Use image"
+msgstr ""
+
+#: inc/customizer/video.php:56
+msgid "Video Button URL:"
+msgstr ""
+
+#: inc/customizer/video.php:6
+msgid "Video Section Options"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:47
+msgid "View Demo"
+msgstr ""
+
+#: inc/customizer/default.php:68
+msgid "View more in Instagram"
+msgstr ""
+
+#: inc/customizer/customizer.php:211
+msgid "View Pro Version"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:302
+msgid "Webmaster Tools"
+msgstr ""
+
+#: inc/customizer/default.php:60
+msgid "Welcome to unExposed"
+msgstr ""
+
+#: inc/customizer/default.php:23
+msgid "You May Also Like"
+msgstr ""
+
+#: inc/admin-page/admin-about.php:272
+msgid ""
+"Your customers will never have to wait for too long with our algorithms and "
+"optimizations."
+msgstr ""
